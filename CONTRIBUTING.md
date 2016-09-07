@@ -23,8 +23,8 @@
 
 
 <h2>App</h2>
-> Aplicativo para facilitar o acesso ao projeto. Verifique o trabalho feito até agora em **[plano de ações]()** para saber em qual etapa estamos.
+> Aplicativo para facilitar o acesso ao projeto. Verifique o trabalho feito até agora em **[plano de ações](ROADMAP.md)** para saber em qual etapa estamos.
 
 <h2>Outro...</h2>
 Feito pela comunidade para a comunidade, não só de software. Portanto, sinta-se livre para fazer qualquer sugestão de melhoria, críticas e feedback.
-<a href="https://github.com/jeanbauer/nossa-cidade-transparente/issues/new?title=&labels%5B%5D=&assignee=jeanbauer&milestone=fake&body=Quanto_mais_detalhes_melhor!">Nos envie uma mensagem!</a>
+<a href="https://github.com/nossacidadetransparente/projeto/issues/new?title=&labels%5B%5D=&assignee=jeanbauer&milestone=fake&body=Quanto_mais_detalhes_melhor!">Nos envie uma mensagem!</a>
