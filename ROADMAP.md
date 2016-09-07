@@ -26,6 +26,6 @@ O projeto está atualmente em desenvolvimento somente nas áreas de Site do apli
 <h2>Quer sugerir algo?</h2>
 
 Sinta-se livre para fazer qualquer sugestão de melhoria, críticas e feedback
-<a href="https://github.com/jeanbauer/nossa-cidade-transparente/issues/new?title=&labels%5B%5D=&assignee=jeanbauer&milestone=fake&body=Quanto_mais_detalhes_melhor!">aqui</a>.
+<a href="https://github.com/nossacidadetransparente/projeto/issues/new?title=&labels%5B%5D=&assignee=jeanbauer&milestone=fake&body=Quanto_mais_detalhes_melhor!">aqui</a>.
 
 > Todas as funcionalidades/ideias acima estão abertas a serem discutidas.
