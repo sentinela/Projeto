@@ -7,6 +7,8 @@
 
 > Projeto que visa facilitar a visualização de dados municipais providos pelos portais da transparência.
 
+*:uk: [English version](./en/README-en.md)*
+
 Nossa Cidade Transparente é um projeto sem fins lucrativos criado por voluntários de diversas áreas com a intenção de facilitar o engajamento da população com o seu município, através de interfaces intuitivas e de fácil navegação, trazendo aos cidadãos uma ferramenta de empoderamento.
 
 
