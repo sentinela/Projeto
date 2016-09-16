@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100" src="./logo.png" alt="Logo do projeto Nossa Cidade Transparente"/>
+  <img width="100" src="../logo.gif" alt="Logo do projeto Nossa Cidade Transparente"/>
 </p>
 <h1 align="center"> Nossa Cidade Transparente </h1>
 
