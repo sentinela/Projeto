@@ -1,11 +1,9 @@
-<p align="center">
-  <img width="100" src="../logo.gif" alt="Logo do projeto Nossa Cidade Transparente"/>
-</p>
-<h1 align="center"> Nossa Cidade Transparente </h1>
+
+<h1 align="center"> Sentinela </h1>
 
 > Facilitates public data visualization and engages people.
 
-Nossa Cidade Transparente is a non-profit project created by volunteers from various areas with the intention of facilitating the engagement of the population with its town, through intuitive interfaces and easy to navigate, bringing citizens an empowerment tool.
+Sentinela is a non-profit project created by volunteers from various areas with the intention of facilitating the engagement of the population with its town, through intuitive interfaces and easy to navigate, bringing citizens an empowerment tool.
 
 
 <h2>How we do</h2>
@@ -24,4 +22,4 @@ There's a lot of ways to help, start taking a look **[here](CONTRIBUTING.md)**, 
 See all we have planned **[here](ROADMAP.md)**, welcome to contribute and share your ideas!
 
 <h2>Social</h2>
-**[Site](http://nossacidadetransparente.hol.es/)** | **[Twitter](https://twitter.com/nctransparente)** | **[Blog](https://medium.com/@nossacidadetransparente)**
+**[Twitter](https://twitter.com/sentinela_br)**
