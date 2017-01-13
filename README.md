@@ -1,15 +1,13 @@
 
 
-<p align="center">
-  <img width="100" src="./logo.png" alt="Logo do projeto Nossa Cidade Transparente"/>
-</p>
-<h1 align="center"> Nossa Cidade Transparente </h1>
+
+<h1 align="center"> Sentinela </h1>
 
 > Projeto que visa facilitar a visualização de dados municipais providos pelos portais da transparência.
 
 *:uk: [English version](./en/README-en.md)*
 
-Nossa Cidade Transparente é um projeto sem fins lucrativos criado por voluntários de diversas áreas com a intenção de facilitar o engajamento da população com o seu município, através de interfaces intuitivas e de fácil navegação, trazendo aos cidadãos uma ferramenta de empoderamento.
+Sentinela é um projeto sem fins lucrativos criado por voluntários de diversas áreas com a intenção de facilitar o engajamento da população com o seu município, através de interfaces intuitivas e de fácil navegação, trazendo aos cidadãos uma ferramenta de empoderamento.
 
 
 <h2>Como fazemos</h2>
@@ -28,4 +26,4 @@ Veja todos os nossos planos **[aqui](CONTRIBUTING.md)**, seja bem vindo para con
 Veja todos os nossos planos **[aqui](ROADMAP.md)**, seja bem vindo para contribuir com suas ideias!  
 
 <h2>Social</h2>
-**[Site](http://nossacidadetransparente.hol.es/)** | **[Twitter](https://twitter.com/nctransparente)** | **[Blog](https://medium.com/@nossacidadetransparente)**
+ **[Twitter](https://twitter.com/sentinela_br)**
