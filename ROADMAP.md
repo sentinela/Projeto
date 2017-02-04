@@ -22,6 +22,8 @@ O projeto está atualmente em desenvolvimento somente nas áreas de Site do apli
 
 - Uma outra possível funcionalidade seria a de "Salas", onde para cada objeto de investigação, como uma licitação fraudada ou uma diária extrapolante, seria criado uma Sala no app, como se fosse um chat para discutir sobre aquele gasto. Imagina-se ser um ambiente para livre debate entre lado acusador e prefeitura. (Ideia sugerida: Utilizar apenas uma hash para criar uma sala e ter as conversas por twitter com aquela #, a UI dos apps iriam apenas buscar na API do Twitter pelo termo).
 
+- Possível novo braço do projeto, criar um bot que acompanha o candidato que a pessoa usuária votou e mantém uma troca de mensagens como updates, propostas prometidas x andamento, _reports_ do candidato.
+
 - Uma área nos app's (web e mobile) para visualização dos dados que estão disponibilizados no [TSE](http://divulgacandcontas.tse.jus.br/) sobre os vereadores de cada cidade.
 <h2>Quer sugerir algo?</h2>
 
