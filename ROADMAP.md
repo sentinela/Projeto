@@ -1,12 +1,14 @@
 
-<p align="center">
-  <img width="100" src="./logo.png" alt="Logo do projeto Nossa Cidade Transparente"/>
-</p>
 <h1 align="center"> Roadmap </h1>
 
 
 <h2>Onde estamos no momento?</h2>
 O projeto está atualmente em desenvolvimento somente nas áreas de Site do aplicativo e Crawlers de alguns municípios.
+
+- Portal da transparência para humanos: https://sentinela-test.herokuapp.com/
+- Aprenda: https://sentinela.github.io
+- Robôs de captura: https://github.com/sentinela/Crawlers
+- Api de integração: https://github.com/sentinela/Api
 
 <h2>Futuro</h2>
 

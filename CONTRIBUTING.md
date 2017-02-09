@@ -1,30 +1,23 @@
-
-
-<p align="center">
-  <img width="100" src="./logo.png" alt="Logo do projeto Nossa Cidade Transparente"/>
-</p>
 <h1 align="center"> Como contribuir </h1>
+> Há diversas formas de contribuir no momento, escolha a que melhor se encaixa com seu perfil :)
 
 
-> Há diversas formas de contribuir no momento, escolha a que melhor se encaixa :)
+<h2>Portal da transparência para humanos</h2>
+> Portal da transparência para humanos:
+https://github.com/sentinela/App
 
-
-
-<h2>Site do aplicativo</h2>
-> A ideia de construir um site além do aplicativo surgiu para termos uma demonstração de como será o funcionamento, mesmo que em versão de demonstração, até as eleições de 2016.
-
-
-1. Fork o repositório do site. (Para instalar: `npm install` e executar: `npm start`)
-2. Implemente as mudanças já comentadas aqui ou desenvolva a sua ideia.
-3. Crie um novo Pull Request aqui.
 
 <h2>Crawlers/WebScraping/Raspagem de Dados</h2>
-> Documentação em construção, se quiser desenvolver agora um crawler para sua cidade, **[nos manda um tweet e vem ser feliz](https://twitter.com/nctransparente)**!
+> Construa um para sua cidade:
+https://github.com/sentinela/Crawlers
+
+<h2>Aprenda</h2>
+> Ensino de política de forma descomplicada: https://github.com/sentinela/Aprenda
 
 
-<h2>App</h2>
-> Aplicativo para facilitar o acesso ao projeto. Verifique o trabalho feito até agora em **[plano de ações](ROADMAP.md)** para saber em qual etapa estamos.
+<h2>E mais...</h2>
+- Api de integração com crawlers: https://github.com/sentinela/Api
+- Faça uma hackathon na sua cidade: https://github.com/sentinela/Hackathons
 
-<h2>Outro...</h2>
 Feito pela comunidade para a comunidade, não só de software. Portanto, sinta-se livre para fazer qualquer sugestão de melhoria, críticas e feedback.
-<a href="https://github.com/nossacidadetransparente/projeto/issues/new?title=&labels%5B%5D=&assignee=jeanbauer&milestone=fake&body=Quanto_mais_detalhes_melhor!">Nos envie uma mensagem!</a>
+<a href="https://github.com/sentinela/projeto/issues/new?title=&labels%5B%5D=&assignee=jeanbauer&milestone=fake&body=Quanto_mais_detalhes_melhor!">Nos envie uma mensagem!</a>
